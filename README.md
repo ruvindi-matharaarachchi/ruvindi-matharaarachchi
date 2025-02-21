@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on **Test**
 
-- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Java**
 
