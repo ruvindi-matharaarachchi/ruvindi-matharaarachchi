@@ -105,6 +105,4 @@
   </a>
 </p>
 
----
 
-✨ *“Keep coding, keep growing, and keep inspiring!”* ✨
