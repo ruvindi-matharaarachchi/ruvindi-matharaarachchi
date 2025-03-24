@@ -1,3 +1,5 @@
+[![Braydon's GitHub Banner](./assets/2.png)](https://braydoncoyer.dev)
+
 <h1 align="center">Hi 👋, I'm Ruvindi Chathurya</h1>
 <h3 align="center">🚀 Passionate Software Engineer | Full-Stack Developer | Innovator in Tech</h3>
 <h4 align="center">Building Scalable Solutions • Crafting Elegant Code • Exploring Cutting Edge Technologies</h4>
