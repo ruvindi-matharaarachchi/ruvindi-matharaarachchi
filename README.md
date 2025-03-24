@@ -10,6 +10,8 @@
 </p>
 
 ---
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWYybGk1c2NxMzRzdXVqcTJrdW82bXJzbGt5MWsyeDlvdXU1eTR5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
+---
 
 ### 📌 **About Me**
 - 🎓 **Undergraduate BSc (Hons) in IT | Specializing in Software Engineering at SLIIT**
