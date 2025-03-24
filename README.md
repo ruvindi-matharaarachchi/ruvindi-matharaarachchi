@@ -9,11 +9,11 @@
 ---
 
 ### 📌 **About Me**
-- 🎓 BSc (Hons) in IT | Software Engineering at **SLIIT**  
+- 🎓 **Undergraduate BSc (Hons) in IT | Specializing in Software Engineering at SLIIT**
 - 📜 Diploma in Software Engineering at **Wayamba University of Sri Lanka**  
 - 💡 Passionate about **Web & Software Development, Mobile Apps, and UI/UX**  
 - 🚀 Exploring **Open Source, Cloud Computing, and AI Development**  
-- 🔥 Currently learning **Java, React, and Flutter**  
+- 🔥 Currently learning **Java, React, and Flutter, MERN Stack**  
 
 📫 **Contact:**  
 
