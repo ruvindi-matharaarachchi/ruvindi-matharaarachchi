@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruvindi Chathurya</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">🚀 Passionate Software Engineer | Full-Stack Developer | Innovator in Tech</h3>
+<h4 align="center">Building Scalable Solutions • Crafting Elegant Code • Exploring Cutting Edge Technologies</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MatharaArachchi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
