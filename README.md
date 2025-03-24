@@ -83,15 +83,17 @@
 
 
 ---
-
 ### 📊 **GitHub Stats**
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruvindi-matharaarachchi&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruvindi-matharaarachchi&theme=radical" />
 </p>
 
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvindi-matharaarachchi&layout=compact&theme=radical" />
+</p>
 
+---
 
 ### 🌐 **Connect With Me**
 <p align="left">
